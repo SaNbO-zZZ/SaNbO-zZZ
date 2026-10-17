@@ -11,7 +11,7 @@
 
 I build at the intersection of AI, workflow engineering and creative production. My focus is turning research, judgment and execution into systems that can be inspected, reused and improved. F1 video production is my current testing ground; the ambition extends across domains.
 
-[Email / 邮箱](mailto:cisco@alphapulsex.online) · [F1 on Douyin / 抖音](https://v.douyin.com/MffNePCj08g/) · [Projects / 项目](https://github.com/SaNbO-zZZ?tab=repositories)
+[cisco@alphapulsex.online](mailto:cisco@alphapulsex.online) · [F1 on Douyin / 抖音](https://v.douyin.com/MffNePCj08g/) · [Projects / 项目](https://github.com/SaNbO-zZZ?tab=repositories)
 
 ## Selected work / 代表项目
 
